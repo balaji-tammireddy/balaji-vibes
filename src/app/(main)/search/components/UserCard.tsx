@@ -1,4 +1,3 @@
-// app/(main)/search/components/UserCard.tsx
 "use client";
 
 import { useState } from "react";
